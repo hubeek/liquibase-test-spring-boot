@@ -1,0 +1,10 @@
+INSERT IGNORE INTO item (id, name) VALUES (1, 'Apple');
+INSERT IGNORE INTO item (id, name) VALUES (2, 'Banana');
+INSERT IGNORE INTO item (id, name) VALUES (3, 'Cherry');
+INSERT IGNORE INTO item (id, name) VALUES (4, 'Date');
+INSERT IGNORE INTO item (id, name) VALUES (5, 'Elderberry');
+INSERT IGNORE INTO item (id, name) VALUES (6, 'Fig');
+INSERT IGNORE INTO item (id, name) VALUES (7, 'Grape');
+INSERT IGNORE INTO item (id, name) VALUES (8, 'Honeydew');
+INSERT IGNORE INTO item (id, name) VALUES (9, 'Kiwi');
+INSERT IGNORE INTO item (id, name) VALUES (10, 'Lemon');

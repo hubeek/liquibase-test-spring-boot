@@ -1,0 +1,10 @@
+INSERT IGNORE INTO `order` (item_id, quantity) VALUES (1, 5);
+INSERT IGNORE INTO `order` (item_id, quantity) VALUES (2, 10);
+INSERT IGNORE INTO `order` (item_id, quantity) VALUES (3, 15);
+INSERT IGNORE INTO `order` (item_id, quantity) VALUES (4, 20);
+INSERT IGNORE INTO `order` (item_id, quantity) VALUES (5, 25);
+INSERT IGNORE INTO `order` (item_id, quantity) VALUES (6, 30);
+INSERT IGNORE INTO `order` (item_id, quantity) VALUES (7, 35);
+INSERT IGNORE INTO `order` (item_id, quantity) VALUES (8, 40);
+INSERT IGNORE INTO `order` (item_id, quantity) VALUES (9, 45);
+INSERT IGNORE INTO `order` (item_id, quantity) VALUES (10, 50);
